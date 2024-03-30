@@ -53,6 +53,15 @@ export async function POST(req: Request) {
       );
     }
 
+    // const response = await openai.images.generate(
+    //   {
+    //       prompt, 
+    //       n: parseInt(amount, 10),
+    //       size: resolution,
+    //   });
+
+    //   return NextResponse.json(response.data)
+
     // const response = await openai.createImage({
     //   prompt,
     //   n: parseInt(amount, 10),
