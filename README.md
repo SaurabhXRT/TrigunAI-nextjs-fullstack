@@ -28,12 +28,10 @@ TrigunAI is a cutting-edge web application designed to empower users to effortle
 
 ## 🌐 Get Started
 
-To experience TrigunAI firsthand, simply visit [TrigunAI.com](https://www.trigunai.com) and sign up for an account. Explore the features, unleash your creativity, and elevate your content creation process with TrigunAI.
+To experience TrigunAI firsthand, simply visit [TrigunAI](https://trigunai.vercel.app/) and sign up for an account. Explore the features, unleash your creativity, and elevate your content creation process with TrigunAI.
 
 ## 🤝 Contributing
 
 We welcome contributions from the community! Whether you're a developer, designer, or enthusiast, your input and feedback are valuable to us. Please feel free to open issues, submit feature requests, or contribute code via pull requests.
 
-## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
